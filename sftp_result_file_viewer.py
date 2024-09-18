@@ -1,6 +1,5 @@
-import paramiko
 import os
-from io import StringIO
+import paramiko
 
 # Define your SFTP connection details
 sftp_host = "location"
